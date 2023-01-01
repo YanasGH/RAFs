@@ -26,7 +26,7 @@ First navigate to the folder _main_experiments_. Then run the following:
 $ python run_experiments.py
 
 ```
-This will evaluate all methods on the He dataset as it is set as a default. However, you can choose any of the provided datasets by running the following line ("Robot arm" used as an example):
+With this line all methods will be evaluated on the He dataset as it is set as a default. However, you can choose any of the provided datasets by running the following line ("Robot arm" used as an example):
 
 ```bash
 $ python run_experiments.py --dataset "Robot arm"

@@ -1,0 +1,13 @@
+numpy==1.23.1
+jax==0.4.1
+tensorflow==2.9.1
+neural_tangents==0.6.1
+sklearn==0.0
+pandas==1.4.2
+keras==2.9.0
+scipy==1.8.0
+IPython==8.4.0
+matplotlib_inline==0.1.3
+matplotlib==3.5.3
+seaborn==0.11.2
+bayesian_ntk==0.0.1

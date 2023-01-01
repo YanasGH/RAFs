@@ -59,7 +59,7 @@ All available datasets are:
 - "Forest fire"
 - "Parkinson"
 
-#### C.1 To save *Figure 1* from the paper
+#### C.0 To save *Figure 1* from the paper
 First navigate to the bottom of all methods' py files (i.e. ae, de, hde, ntkgpparam, rpparam, rafs). There the function `viz_one_d` is used to visualize the performance. Change its last argument to "True" (as a default it is set to "False"). Then execute the experiment by running:
 
 ```bash
@@ -78,7 +78,7 @@ $ python run_experiments.py --dataset "Forrester"
 ### How to run
 First navigate to the folder _additional_experiments_.
 
-### D1. Scalability
+### D.0 Scalability
 RAFs Ensemble is evaluated against RP-param on two larger high-dimensional datasets, such that both methods utilize a more complex architecture (that is two hidden layers of 128 neurons). The datasets of choice are "Superconductivity" and "Popularity" (65D and 40D resp.). To conduct this experiment, run the following line:
 
 ```bash

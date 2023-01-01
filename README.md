@@ -93,7 +93,7 @@ $ python run_additional_experiments.py --dataset "Popularity"
 ```
 
 ### D.1 RAFs methodology applied on RP-param
-To observe the positive effect of RAFs methodology on RP-param on the Parkinson's dataset, run the following:
+To observe the positive effect of RAFs methodology when applied on RP-param on the Parkinson's dataset, run the following:
 
 ```bash
 $ python run_rpparam_combined_with_rafs.py

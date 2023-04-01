@@ -9,7 +9,7 @@ This is the code used for performing the experiments from our paper, called "Tow
 
 ## B. Dependencies
 
-First prepare and activate your python environment (e.g. `conda`). Then, to perform the regression experiments use the requirments.txt from the folder regression.  
+First prepare and activate your python environment (e.g. `conda`). Then, to perform the regression experiments use the requirments.txt from the folder.  
 Using pip:
 ```bash
 $ pip install -r requirements.txt
